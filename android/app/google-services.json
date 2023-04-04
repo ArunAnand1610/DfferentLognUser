@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "876369016425",
+    "project_id": "logincheckproject",
+    "storage_bucket": "logincheckproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876369016425:android:07dfb643102e594c8ad4f8",
+        "android_client_info": {
+          "package_name": "com.example.flutterloginapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876369016425-dlds7uurh321lvlm83opr8tbpnbu4ob5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBPjkOY-apuS3Q9DRzCAAQBJuGEsXbwOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876369016425-dlds7uurh321lvlm83opr8tbpnbu4ob5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
